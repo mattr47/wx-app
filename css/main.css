@@ -1,0 +1,31 @@
+.header {
+  background-color: #052E47;
+  color: #b1c1cc;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.header .text-center {
+  font-size: 48px;
+}
+
+.mainWx {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#wxApi p {
+  padding: 10px;
+}
+
+button {
+  margin: 5px;
+}
+
+.btn-lg {
+  padding: 8px 10px 8px 10px;
+  font-size: 14px;
+}
+
+.wi {
+  font-size: 50px;
+}
