@@ -1,4 +1,4 @@
-var apiKey = "25350eb255dbcceee88e03ea210f3482";
+var apiKey = // add API key;
 var unit = "f"; // &#8457 Farenheit &#8451 Celsius
 var tempD = 0;
 
